@@ -1,0 +1,4 @@
+Product ID : a-glasses
+Product type : glasses
+Product Name : spectacles
+Product PKR price : 900.00

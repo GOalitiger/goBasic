@@ -1,0 +1,4 @@
+Product ID : b-carpet
+Product type : carpets
+Product Name : A beautiful carpet
+Product PKR price : 8000.00
